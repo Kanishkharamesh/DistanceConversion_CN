@@ -1,6 +1,5 @@
 # DistanceConversion_CN
 
-Here's a sample `README.md` file content for your GitHub repository:
 
 ---
 
